@@ -1,2 +1,2 @@
 # test-repo-datascience-coursera
-## Secondary Heaading
+## Secondary Heading
